@@ -1,7 +1,6 @@
 - 👋 Hi, i'm Ryan
-- 👀 I’m interested in 
+- 👀 I’m interested in Pokemon :)))0
 - 🌱 I’m currently learning Python :)))))))))))))))
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
